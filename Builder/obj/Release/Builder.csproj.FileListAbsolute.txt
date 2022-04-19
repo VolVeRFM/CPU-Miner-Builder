@@ -1,0 +1,10 @@
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.csproj.AssemblyReference.cache
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.Form1.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.Properties.Resources.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.csproj.GenerateResource.cache
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.csproj.CoreCompileInputs.cache
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\bin\Release\Builder.exe.config
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\bin\Release\Builder.exe
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\bin\Release\Builder.pdb
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.exe
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Builder\Builder\obj\Release\Builder.pdb
